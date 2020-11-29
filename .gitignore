@@ -8,3 +8,4 @@ dist/
 pyinstaller/
 download/
 snowboy-*.tar.gz
+*~
